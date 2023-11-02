@@ -1,0 +1,101 @@
+commit 07c5898cabc09dc0933b471b3aa1a88846a6dda4
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Thu Nov 2 15:05:49 2023 -0600
+
+    se añadió el archivo3.txt y se modificó el archivo2.txt
+
+commit 41d75f56be64ca033455fd46787518abe6e112f8
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Fri Apr 28 20:12:42 2023 -0600
+
+    actualizar archivo 2
+
+commit 8f63825c7627902828a3886967b58731c195fd0a
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Fri Apr 28 17:27:32 2023 -0600
+
+    mostrando status corto
+
+commit e9807093e904bda6e02c1e91c7fe4ba0b662e3ca
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Fri Apr 28 17:10:48 2023 -0600
+
+    agregando gitignore
+
+commit 80762e71217ac69fdb72d5c0dd1bc4b4cdb09e8a
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Fri Apr 28 16:31:58 2023 -0600
+
+    renombrando archivo1
+
+commit 7e20ed87215bbb0f8b31a1159834e0dd093fb02d
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Fri Apr 28 16:18:40 2023 -0600
+
+    se borra el archivo 2
+
+commit f0cd9b29276f6adf33db1a65c5e3255258f6eba9
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Fri Apr 28 16:16:51 2023 -0600
+
+    se borró el archivo 2
+
+commit 5000230b6c0fc703062e8346c1ae3b9bd47760bc
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Fri Apr 28 16:14:18 2023 -0600
+
+    se renombró el archivo 1 a "..cambiado"
+
+commit 348c7c28c09b33d3e7384a57795af9a46c0bbbb9
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Fri Apr 28 15:40:29 2023 -0600
+
+    Eliminando archivo 2
+
+commit f9aca644e92196057d33cc9c8c2263135c6c8ff4
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Fri Apr 28 15:35:18 2023 -0600
+
+    se agregó un cerdito al archivo2
+
+commit 50bb1d40d158df2eca32a888330d6b64e007e952
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Fri Apr 28 15:31:47 2023 -0600
+
+    se modificó el archivo2
+
+commit a27be087e46157cc3bdb123d71e5fe40cb8aee35
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Fri Apr 28 15:07:08 2023 -0600
+
+    se añadieron números a ambos archivos
+
+commit 0532a611eb0d04424d1e787d3e0bb9554fd52c4f
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Fri Apr 28 14:58:13 2023 -0600
+
+    primer archivo
+
+commit cc60cda7c209064a67e1d8bd921d792d8b15ed98
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Wed Apr 26 20:40:08 2023 -0600
+
+    se elimin+o el archivo 2
+
+commit 832b971898089a2b613d52a07480eeaaf9306b2c
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Wed Apr 26 17:48:35 2023 -0600
+
+    Agregando un cerdito
+
+commit 4dd098c2441f54b606b0dffc6c3f7bb31c076825
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Wed Apr 26 17:43:42 2023 -0600
+
+    Commit inicial
+
+commit 50dd2968d828b9ea777e2621df21dce3529b01ac
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Wed Apr 26 17:38:47 2023 -0600
+
+    Commit inicial
